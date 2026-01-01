@@ -28,7 +28,7 @@
                     "title": "Smart Plug / Barely Smart Power Strip",
                     "enum": [
                       "Outlet"
-                      ]
+                    ]
                   },
                   {
                     "title": "Simple Light Bulb / Socket",
@@ -112,6 +112,12 @@
                     "title": "Simple Fan Light",
                     "enum": [
                       "FanLight"
+                    ]
+                  },
+                  {
+                    "title": "Fanco Fan Light",
+                    "enum": [
+                      "FancoFanLight"
                     ]
                   },
                   {
